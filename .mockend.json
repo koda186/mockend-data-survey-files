@@ -29,6 +29,24 @@
       "string": [
         "..logs"
       ]
+    },
+    "viz_file": {
+      "string": [
+        "H12253_MB_1mMLLW_1of14",
+        "H12253_MB_1mMLLW_2of14",
+        "H12253_MB_1mMLLW_3of14",
+        "H12253_MB_1mMLLW_4of14",
+        "H12253_MB_1mMLLW_5of14",
+        "H12253_MB_1mMLLW_6of14",
+        "H12253_MB_1mMLLW_7of14",
+        "H12253_MB_1mMLLW_8of14",
+        "H12253_MB_1mMLLW_9of14"
+      ]
+    }
+    "survey_on_globe": {
+      "string": [
+        "View"
+      ]
     }
   }
 }
