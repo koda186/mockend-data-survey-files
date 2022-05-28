@@ -48,7 +48,7 @@
         "H12253_MB_1mMLLW_9of14"
       ]
     },
-        "viz_file": {
+    "platformType": {
       "string": [
         "AUV",
         "ROV",
