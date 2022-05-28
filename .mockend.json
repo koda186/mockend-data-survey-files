@@ -47,6 +47,20 @@
         "H12253_MB_1mMLLW_8of14",
         "H12253_MB_1mMLLW_9of14"
       ]
+    },
+        "viz_file": {
+      "string": [
+        "AUV",
+        "ROV",
+        "Side Scan Sonar",
+        "Single Beam Bathymetry",
+        "Topographic Lidar",
+        "Synthetic Aperture Sonar (SAS)",
+        "Topographic Lidar",
+        "Bathymetric Lidar",
+        "Magnetometer",
+        "SBP"
+      ]
     }
   }
 }
